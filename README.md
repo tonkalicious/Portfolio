@@ -2,7 +2,7 @@
 
 In this portfolio you will be able to see my work on project as a Data Analyst.
 
-1. Automation project
+1. Automation project<br>
     Trending video on YouTube:
     Answered the questions:
         What was the category breakdown for trending videos in different regions last week?
