@@ -17,7 +17,7 @@ In this portfolio you will be able to see my work on project as a Data Analyst.
 3. Business Analytics Project:<br>
     Optimization of the marketing expenses:
     
-    Some of the metrics I have calculated and visualy presented are: DAU, MAU, WAU, number od sessions per day on different devices, average number od sessions pers day, average duration of sessions, retention and conversion rate for each cohort, number of orders per cohort, average number of orders, average purchase size, LTV, marketing costs, CAC, ROI, net profit.
+    Some of the metrics I have calculated and visually presented are: DAU, MAU, WAU, number od sessions per day on different devices, average number od sessions pers day, average duration of sessions, retention and conversion rate for each cohort, number of orders per cohort, average number of orders, average purchase size, LTV, marketing costs, CAC, ROI, net profit.
     
     I gave some recommendations and advised marketing experts how much money to invest and where.
     
