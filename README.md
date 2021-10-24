@@ -3,14 +3,14 @@
 In this portfolio you will be able to see my projects from *Practicum100*.
 
 ## Trending video on YouTube:
-    Answered the questions:<br>
+    Answered the questions:
     
         What was the category breakdown for trending videos in different regions last week?
         How were likes and dislikes distributed among trending categories?
         
-## EDA_vehicle advertisement: [project](EDA-vehicle advertisement.ipynb)
+## EDA_vehicle advertisement:
 
-    I was analyzing data for a company where hundreds of free advertisements for vehicles are published on a advertisement site every day.
+    I was analyzing data for a company where hundreds of free advertisements for vehicles are published on a web site every day.
     I had to study data collected over the last few years and determine which factors influence the price of a vehicle.
 
 ## Business Analytics Project:
