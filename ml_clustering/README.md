@@ -4,6 +4,8 @@
 <img src="https://user-images.githubusercontent.com/81360033/147480359-5eb84da5-675d-44fa-be3f-8e1a739638e8.png">
 </p>
 
+[View full project](https://github.com/tonkalicious/PortfolioPracticum100/blob/50f37feb9c97d458a9dddce2cc3f5fff745e1756/ml_clustering/machine_learning%20and%20clustering.ipynb)
+
 ## Project description
 
 The gym chain XY is developing a customer interaction strategy based on analytical data.
