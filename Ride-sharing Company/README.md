@@ -2,6 +2,8 @@
 
 ![image](https://user-images.githubusercontent.com/81360033/147462725-d1c23792-ed7c-4507-bcc0-d11a4ae3e1de.png)
 
+[View full project](https://github.com/tonkalicious/PortfolioPracticum100/blob/caf74b8cf934a3a272b85d0bde4d5691b0ac5bc6/Ride-sharing%20Company/Ride-sharing%20company%20in%20Chicago.ipynb)
+
 ## Tools I used:
 
 ![image](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
@@ -41,6 +43,8 @@ It would be helpful to have more parameters on every ride. For example; the dist
 Correlation between number of rides and duration of rides is very strong. The higher the number of rides in an hour, the higer duration of rides.
 
 It would be useful to know what kind of service did customers use, taxi, car-sharing or something else. Then we could see is there any correlation within these parameters.
+
+
 
 
 
