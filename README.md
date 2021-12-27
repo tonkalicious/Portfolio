@@ -16,7 +16,7 @@ Optimization of the marketing expenses.
 
 ![image](https://user-images.githubusercontent.com/81360033/147443351-76011e74-4284-4038-997c-bf2dcf351bc0.png)
 
-[Project](https://github.com/tonkalicious/PortfolioPracticum100/blob/ab45038c77313e86848ba6de4f45be5eaf670b52/business_analytics_project/Business%20Analytics%20Project%20.ipynb)
+[Project](https://github.com/tonkalicious/PortfolioPracticum100/blob/1b6dfd6f3515fe85d20885ae349a1fbe1aa77caa/business_analytics_project/README.md)
 
 ## Project: *Gym chain - customer interaction strategy*
 
