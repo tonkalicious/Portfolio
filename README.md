@@ -8,7 +8,7 @@ Prioritizing hypotheses, launching an A/B test, and analysing the results.
 
 ![image](https://user-images.githubusercontent.com/81360033/147442823-2b7b9ff0-c445-4c71-a6d0-8772e2602310.png)
 
-[Project](https://github.com/tonkalicious/PortfolioPracticum100/blob/e43de8cbcf135ab5460e3345819249a5b60f075a/AB_testing/prioritizing_hypotheses_launch_and_%20AB_test_analysis.ipynb)
+[Project](https://github.com/tonkalicious/PortfolioPracticum100/blob/354f331205185ce631ef12d78707c02d827e6055/AB_testing/README.md)
 
 ## Project: *Business Analytics*
 
