@@ -31,7 +31,7 @@ Customer profile analysis and customer retention strategy.
 Impact of external factors on rides.
 
 
-<img src="https://user-images.githubusercontent.com/81360033/147463349-99aa82f9-b394-4679-a93c-844aa712afc4.png" width="80%" height="80%)
+<img src="https://user-images.githubusercontent.com/81360033/147463349-99aa82f9-b394-4679-a93c-844aa712afc4.png" width="80%" height="80%">
 
 [Project](https://github.com/tonkalicious/PortfolioPracticum100/blob/5ba4bc324fab11f417ed4041fd22bab1946228cf/Ride-sharing%20Company/README.md)
 
