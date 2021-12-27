@@ -16,19 +16,21 @@ I am an analyst at a big online store. Together with the marketing department, I
 
 - prioritization of hypothesis using ICE and RICE framework:
 
-<img src='.\prioritization.png'>
+<img src=".\prioritization.png" width="50%" height="50%">
 
 - A/B Test Analysis
-![image](https://user-images.githubusercontent.com/81360033/147464501-c041a453-5af8-4511-97c8-3b4659f995a6.png)
 
-![image](https://user-images.githubusercontent.com/81360033/147464512-842c3b7d-6b7e-48e8-b29c-677a6b85c4a3.png)
+<img src="https://user-images.githubusercontent.com/81360033/147464501-c041a453-5af8-4511-97c8-3b4659f995a6.png" width="80%" height="80%">
 
-![image](https://user-images.githubusercontent.com/81360033/147464521-d953a9fc-5a67-4397-a574-2a3e532cdacd.png)
+<img src="https://user-images.githubusercontent.com/81360033/147464512-842c3b7d-6b7e-48e8-b29c-677a6b85c4a3.png" width="80%" height="80%">
 
-![image](https://user-images.githubusercontent.com/81360033/147464533-1123f417-234d-407a-87a4-88ae88ccd8c5.png)
+<img src="https://user-images.githubusercontent.com/81360033/147464521-d953a9fc-5a67-4397-a574-2a3e532cdacd.png" width="80%" height="80%">
+
+<img src="https://user-images.githubusercontent.com/81360033/147464533-1123f417-234d-407a-87a4-88ae88ccd8c5.png" width="80%" height="80%">
 
 - hypothesis testing: checked the statistical significance (of the difference in conversion, difference in average order size) on raw and filtered data (mannwhitneyu test)
--![image](https://user-images.githubusercontent.com/81360033/147464732-a7b46b1f-0d50-4b62-8c63-e4a7e386d3eb.png)
+
+<img src="https://user-images.githubusercontent.com/81360033/147464732-a7b46b1f-0d50-4b62-8c63-e4a7e386d3eb.png" width="70%" height="70%">
 
 
 ## General conclusion:
