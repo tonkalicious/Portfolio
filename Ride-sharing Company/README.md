@@ -1,7 +1,11 @@
 # Project: *Ride - sharing company in Chicago*
 
-![image](https://user-images.githubusercontent.com/81360033/147452850-639e67ff-30b6-4cf5-bc6e-2f26921296a9.png)
+![image](https://user-images.githubusercontent.com/81360033/147462725-d1c23792-ed7c-4507-bcc0-d11a4ae3e1de.png)
 
+## Tools I used:
+
+![image](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
 ## Project description:
 
@@ -9,12 +13,6 @@ I am working as an analyst for a new ride-sharing company that's launching in Ch
 
 [Skip to the general conclusion](#Generalconclusion)
 
-## Tools I used:
-
-- pandas
-- matplotlib
-- scipy
-- seaborn
 
 **Step 4. Exporatory data analysis**
 
