@@ -16,17 +16,52 @@ advise marketing experts how much money to invest and where to invest.
 **Step 2.** Make reports and calculate metrics.
 
   - How many people use the product every day/week/month? DAU/WAU/MAU?
+  
+ ![image](https://user-images.githubusercontent.com/81360033/147467668-ade4e5ab-af8f-40a5-85a2-3166e6a7582a.png)
+
   - How many sessions are there per day? (One user might have more than one session.)
   - What is the length of each session?
   - How often do users come back?
+  
+  ![image](https://user-images.githubusercontent.com/81360033/147468170-195d7d88-e02e-4cca-9f04-4a181f8ae427.png)
+
   - When do people start buying?
+ 
+ ![image](https://user-images.githubusercontent.com/81360033/147468223-6285e3dc-a240-413f-b49d-86e655658750.png)
+
   - How many orders do they make during a given period of time?
+  
+  ![image](https://user-images.githubusercontent.com/81360033/147468265-2b426e63-80c0-428e-a6f5-2969d3d56049.png)
+  
+  ![image](https://user-images.githubusercontent.com/81360033/147468288-d492733b-a633-421b-805d-551109293ef9.png)
+
   - What is the average purchase size?
+  
+ ![image](https://user-images.githubusercontent.com/81360033/147468327-b400c614-5ed1-429d-9607-0f6fae01ebf9.png)
+
   - How much money do they bring? LTV
+  
+![image](https://user-images.githubusercontent.com/81360033/147468379-595dfe50-e6b5-46c4-b067-66b1f4ff7587.png)
+ 
+![image](https://user-images.githubusercontent.com/81360033/147468398-eccbba4c-8b97-4149-b07d-bedbdadb595f.png)
+
+![image](https://user-images.githubusercontent.com/81360033/147468424-5f38af3a-1ad2-4e9c-8832-b26371628579.png)
+
   - How much money was spent for marketing? Overall/per source/over time.
+  
+![image](https://user-images.githubusercontent.com/81360033/147468490-ed45b73c-cdb3-4df8-b4bb-ff3e2e01a3b3.png)
+
+![image](https://user-images.githubusercontent.com/81360033/147468526-0e8e4a67-831e-4900-b5c1-2b589b439bd1.png)
+
   - How much did customer acquisition from each of the sources cost?
+ 
+![image](https://user-images.githubusercontent.com/81360033/147468563-ca7915cc-876a-4e95-8ec6-d5bbdc27d598.png)
+
   - How worthwhile where the investments? ROI
   
+![image](https://user-images.githubusercontent.com/81360033/147468606-dca85b62-1744-40a1-964f-c0589c02d2ae.png)
+ 
+![image](https://user-images.githubusercontent.com/81360033/147468623-4085ef9e-5625-4765-8630-36e00a0dc3bf.png)
   
 ## General conclusion:
 <a id="general"></a>
