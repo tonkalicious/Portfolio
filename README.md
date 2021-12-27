@@ -24,7 +24,7 @@ Customer profile analysis and customer retention strategy.
 
 ![image](https://user-images.githubusercontent.com/81360033/147443921-19f99294-78e9-4cba-b37e-219e54611fc4.png)
 
-[Project](https://github.com/tonkalicious/PortfolioPracticum100/blob/ab45038c77313e86848ba6de4f45be5eaf670b52/ml_clustering/machine_learning%20and%20clustering.ipynb)
+[Project](https://github.com/tonkalicious/PortfolioPracticum100/blob/0d967faaaba4f9b4495c81122f19dd0030b1de71/ml_clustering/README.md)
 
 ## Project: *Ride - sharing company in Chicago*
 
