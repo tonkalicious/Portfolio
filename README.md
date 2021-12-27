@@ -40,5 +40,5 @@ Automation project made in Tableau.
 
 ![image](https://user-images.githubusercontent.com/81360033/147444329-0d736250-7b58-4f56-b8ab-a4a97bc6372b.png)
 
-[Project](https://github.com/tonkalicious/PortfolioPracticum100/blob/ab45038c77313e86848ba6de4f45be5eaf670b52/automation_project/Automation%20Project.pdf)
+[Project](https://github.com/tonkalicious/PortfolioPracticum100/blob/1f57bccb71f0bb6509c982cfede9240bda92943f/automation_project/README.md)
 
