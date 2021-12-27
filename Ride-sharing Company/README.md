@@ -1,6 +1,6 @@
 # Project: *Ride - sharing company in Chicago*
 
-![image](https://user-images.githubusercontent.com/81360033/147462725-d1c23792-ed7c-4507-bcc0-d11a4ae3e1de.png)
+<img src="https://user-images.githubusercontent.com/81360033/147462725-d1c23792-ed7c-4507-bcc0-d11a4ae3e1de.png" width="60%" height="60%">
 
 [View full project](https://github.com/tonkalicious/PortfolioPracticum100/blob/caf74b8cf934a3a272b85d0bde4d5691b0ac5bc6/Ride-sharing%20Company/Ride-sharing%20company%20in%20Chicago.ipynb)
 
@@ -18,17 +18,18 @@ I am working as an analyst for a new ride-sharing company that's launching in Ch
 
 **Step 4. Exporatory data analysis**
 
-![image](https://user-images.githubusercontent.com/81360033/147452245-33c6d930-b711-4b88-bfd3-92777529c3a2.png)
+<img src="https://user-images.githubusercontent.com/81360033/147452245-33c6d930-b711-4b88-bfd3-92777529c3a2.png" width="80%" height="80%">
 
-![image](https://user-images.githubusercontent.com/81360033/147452292-b9b2c2dd-d83e-4f7d-884d-ff0770241c50.png)
+<img src="https://user-images.githubusercontent.com/81360033/147452292-b9b2c2dd-d83e-4f7d-884d-ff0770241c50.png" width="80%" height="80%">
 
 **Step 5. Testing hypotheses**
 
-![image](https://user-images.githubusercontent.com/81360033/147452346-d5928d65-9cd7-46cb-af08-e91198924173.png)
+<img src="https://user-images.githubusercontent.com/81360033/147452346-d5928d65-9cd7-46cb-af08-e91198924173.png" width="80%" height="80%">
 
-![image](https://user-images.githubusercontent.com/81360033/147452361-80c959e2-67ab-4339-ac06-c818edfa1d3f.png)
+<img src="https://user-images.githubusercontent.com/81360033/147452361-80c959e2-67ab-4339-ac06-c818edfa1d3f.png" width="80%" height="80%">
 
-![image](https://user-images.githubusercontent.com/81360033/147452394-42da904d-0bd7-480b-aa8e-b0125b7d881d.png)
+<img src="https://user-images.githubusercontent.com/81360033/147452394-42da904d-0bd7-480b-aa8e-b0125b7d881d.png" width="80%" height="80%">
+
 
 
 ## General conclusion:
