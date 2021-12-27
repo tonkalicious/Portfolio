@@ -1,6 +1,8 @@
 # Project: *Gym - customer retention strategy*
 
-<img src="" width="200" height="400" />
+<p align="center">
+<img src="https://user-images.githubusercontent.com/81360033/147480359-5eb84da5-675d-44fa-be3f-8e1a739638e8.png">
+</p>
 
 ## Project description
 
@@ -22,17 +24,28 @@ Build a binary classification model for customers where the target feature is th
 
 **Step 1.** Divide the data into train and validation sets using the train_test_split() function.
 
+![image](https://user-images.githubusercontent.com/81360033/147480036-02f98d09-72ee-4af3-94da-17a7181b799f.png)
+
 
 
 **Step 2.** Train the model on the train set with two methods:
 
   - logistic regression
+ 
+ ![image](https://user-images.githubusercontent.com/81360033/147480164-e04d9525-a7d6-4a2e-8484-6e8fee908a4a.png)
+
   - random forest
   
+  ![image](https://user-images.githubusercontent.com/81360033/147480217-dfa09b53-e91f-4a3c-8c05-61090ef11b82.png)
+
 **Step 3.** Create user clusters
+
 Set aside the column with data on churn and identify object (user) clusters: standardize the data. Use the linkage() function to build a matrix of distances based on the standardized feature matrix and plot a dendrogram. Note: rendering the dendrogram may take time! Use the resulting graph to estimate the number of clusters you can single out.
 
 **Step 4.** Train the clustering model with the K-means algorithm and predict customer clusters.
+
+![image](https://user-images.githubusercontent.com/81360033/147480287-5f4be800-0ab7-4a8d-a315-e1bc5a41ec1f.png)
+
 
 ## General conclusion
 <a id="general"></a>
