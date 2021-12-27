@@ -2,6 +2,11 @@
 
 [View full project](https://github.com/tonkalicious/PortfolioPracticum100/blob/59b312216c17336a0139d0886fa0ee7e33d46bff/business_analytics_project/Business%20Analytics%20Project%20.ipynb)
 
+## Tools I used:
+
+![image](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
+- pandas, numpy, calendar, plotly, seaborn, matplotlib, statistics
+
 ## Project description:
 
 My task was to make reports and calculate certain metrics and to make a recommendation;
