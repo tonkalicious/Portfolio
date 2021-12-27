@@ -42,5 +42,3 @@ Automation project made in Tableau.
 
 [Project](https://github.com/tonkalicious/PortfolioPracticum100/blob/ab45038c77313e86848ba6de4f45be5eaf670b52/automation_project/Automation%20Project.pdf)
 
-
-In this [portfolio](https://tonkalicious.github.io/PortfolioPracticum100/) you will be able to see my projects from *Practicum100*.
