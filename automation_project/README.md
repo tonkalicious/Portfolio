@@ -1,7 +1,5 @@
 # Project: *Trending vidoes on YouTube*
 
-[View on PDF presentation](https://github.com/tonkalicious/PortfolioPracticum100/blob/77f592ded420607a572e80effea57b97b11d0026/automation_project/Automation%20Project.pdf)
-
 ## Tools I used:
 
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
@@ -28,3 +26,4 @@ last week?
 
 ## Links
   [Tableau Public Dashboard](https://public.tableau.com/app/profile/antonija.mohar/viz/AutomationProject_16237025051250/Dashboard1)
+  [View on PDF presentation](https://github.com/tonkalicious/PortfolioPracticum100/blob/77f592ded420607a572e80effea57b97b11d0026/automation_project/Automation%20Project.pdf)
