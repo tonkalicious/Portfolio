@@ -26,6 +26,14 @@ Customer profile analysis and customer retention strategy.
 
 [Project](https://github.com/tonkalicious/PortfolioPracticum100/blob/ab45038c77313e86848ba6de4f45be5eaf670b52/ml_clustering/machine_learning%20and%20clustering.ipynb)
 
+## Project: *Ride - sharing company in Chicago*
+
+Impact of external factors on rides.
+
+![image](https://user-images.githubusercontent.com/81360033/147463349-99aa82f9-b394-4679-a93c-844aa712afc4.png)
+
+[Project](https://github.com/tonkalicious/PortfolioPracticum100/blob/3853457c56a5572ddf66cdb23c70fd0e4cb2093e/Ride-sharing%20Company/README.md)
+
 ## Project: *Trending videos on Youtube*
 
 Automation project made in Tableau.
