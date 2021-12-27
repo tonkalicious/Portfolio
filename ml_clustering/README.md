@@ -35,7 +35,7 @@ Set aside the column with data on churn and identify object (user) clusters: sta
 **Step 4.** Train the clustering model with the K-means algorithm and predict customer clusters.
 
 ## General conclusion
-<a id="general" /a>
+<a id="general"></a>
 
 We can see in cluster with the bigest churn rate that these clients mostly live near the gym, mean age value is the lowest in this group, they have the least additional charges. They don't come to the gym so often, and the came by their own initiative; they are not an emplyees of a aprtner company nor did they came through promo ticket. They don't spend too much time in the the group activities as well. I would call this groupy 'Lazy' because it seems they don't have a lot of motivation for working out even though they live near the gym, but they did make an effort to join the gym, without a hel of a friend or a company where they work. It would be wise to make a kind of an interview or ask them to to fill up a questionare where they could possibly express their needs.
 
