@@ -26,8 +26,13 @@ Customer profile analysis and customer retention strategy.
 
 [Project](https://github.com/tonkalicious/PortfolioPracticum100/blob/ab45038c77313e86848ba6de4f45be5eaf670b52/ml_clustering/machine_learning%20and%20clustering.ipynb)
 
+## Project: *Trending videos on Youtube*
+
+Automation project made in Tableau.
+
 ![image](https://user-images.githubusercontent.com/81360033/147444329-0d736250-7b58-4f56-b8ab-a4a97bc6372b.png)
 
+[Project](https://github.com/tonkalicious/PortfolioPracticum100/blob/ab45038c77313e86848ba6de4f45be5eaf670b52/automation_project/Automation%20Project.pdf)
 
 
 In this [portfolio](https://tonkalicious.github.io/PortfolioPracticum100/) you will be able to see my projects from *Practicum100*.
