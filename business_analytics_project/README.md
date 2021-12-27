@@ -1,5 +1,7 @@
 # Project: Business Analytics
 
+[View full project](https://github.com/tonkalicious/PortfolioPracticum100/blob/59b312216c17336a0139d0886fa0ee7e33d46bff/business_analytics_project/Business%20Analytics%20Project%20.ipynb)
+
 ## Project description:
 
 My task was to make reports and calculate certain metrics and to make a recommendation;
