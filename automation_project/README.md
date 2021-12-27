@@ -1,5 +1,11 @@
 # Project: *Trending vidoes on YouTube*
 
+## Tools I used:
+
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+
+![image](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+
 ## Project description:
 
 I work as a video ad analyst at the advertising agency and devote a lot of time to analyzing trending videos on YouTube to determine what content deserves marketing attention.
