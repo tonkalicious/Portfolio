@@ -7,7 +7,7 @@
 
 I am working as an analyst for a new ride-sharing company that's launching in Chicago. My task is to find patterns in the available information. I need to understand passenger preferences and the impact of external factors on rides.
 
-[Skip to the general conclusion](#Generalconclusion:)
+[Skip to the general conclusion](#Generalconclusion)
 
 ## Tools I used:
 
@@ -32,6 +32,7 @@ I am working as an analyst for a new ride-sharing company that's launching in Ch
 
 
 ## General conclusion:
+<a id="Generalconclusion"></a>
 
 There is an impact of weather on ride frequencies. There are 882 rides during good weather and only 180 rides during bad weather; 83% of rides during good weather and 17% of rides during bad weather. The statistic comes from 4 days in November. It would be useful to know statistics on average rainy days throught Noveber; it is around 10 days. The rest of 20 days are without rain or snowfall. You could check the statistics on rainy days on this [link](https://weather-and-climate.com/average-monthly-Rainy-days,Chicago,United-States-of-America).
 
