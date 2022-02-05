@@ -54,3 +54,18 @@ Our goal is to find out which of the verification stages most often leads to the
 
 <img src="https://github.com/tonkalicious/PortfolioPracticum100/blob/9a2261cfa281701e9a6072a8a80485657d18f54b/KYC%20-%20Know%20Your%20Customer/clear_documentation">
 
+We can see from visualization that clear documentation have around 65% of potential customers. Around 35% have not clear documentation so we should look into that.
+
+![image](https://user-images.githubusercontent.com/81360033/152650508-dad24068-f66b-41d2-b91e-2951e8c0a315.png)
+For 'result_doc' column very high correlation coefficient (0,935) has next stage of KYC:
+
+image_integrity_result - Asserts whether the document was of sufficient quality to verify.
+
+For 'result_face' column very high correlation coefficient (0,951) has next stage of KYC:
+
+facial_image_integrity_result - Asserts whether the quality of the uploaded files and the content contained within them were sufficient to perform a face comparison
+
+**These parameters have a great influence on the final KYC result.**
+
+[Full project](https://github.com/tonkalicious/PortfolioPracticum100/blob/d5535bf8d2e3684d9ff14cba0c0414a848cc5bda/KYC%20-%20Know%20Your%20Customer/registration-pass_rate.ipynb)
+
