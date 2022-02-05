@@ -57,7 +57,8 @@ Our goal is to find out which of the verification stages most often leads to the
 We can see from visualization that clear documentation have around 65% of potential customers. Around 35% have not clear documentation so we should look into that.
 
 ![image](https://user-images.githubusercontent.com/81360033/152650508-dad24068-f66b-41d2-b91e-2951e8c0a315.png)
-<img src="https://user-images.githubusercontent.com/81360033/152650508-dad24068-f66b-41d2-b91e-2951e8c0a315.png" width="70%" height="70%"
+
+<img src="https://user-images.githubusercontent.com/81360033/152650508-dad24068-f66b-41d2-b91e-2951e8c0a315.png" width="70%" height="70%">
 
 For 'result_doc' column very high correlation coefficient (0,935) has next stage of KYC:
     
