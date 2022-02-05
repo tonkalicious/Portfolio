@@ -43,3 +43,14 @@ Automation project made in Tableau.
                                                                                                                                      
 [Project](https://github.com/tonkalicious/PortfolioPracticum100/blob/1f57bccb71f0bb6509c982cfede9240bda92943f/automation_project/README.md)
 
+## Project: *KYC - Know Your Customer*
+
+As a financial institution regulated by the FCA, N26 has the obligation to verify the identity of all
+customers who want to open a N26 account. Each prospective customer has to go through a
+Know Your Customer (KYC) process by submitting a government-issued photo ID and a facial
+picture of themself to our partner.
+
+Our goal is to find out which of the verification stages most often leads to the 'consider' for the result_doc column.
+
+<img src="https://github.com/tonkalicious/PortfolioPracticum100/blob/9a2261cfa281701e9a6072a8a80485657d18f54b/KYC%20-%20Know%20Your%20Customer/clear_documentation">
+
