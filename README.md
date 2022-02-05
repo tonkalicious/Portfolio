@@ -59,12 +59,12 @@ We can see from visualization that clear documentation have around 65% of potent
 ![image](https://user-images.githubusercontent.com/81360033/152650508-dad24068-f66b-41d2-b91e-2951e8c0a315.png)
 
 For 'result_doc' column very high correlation coefficient (0,935) has next stage of KYC:
-
-  image_integrity_result - Asserts whether the document was of sufficient quality to verify.
+    
+    - image_integrity_result - Asserts whether the document was of sufficient quality to verify.
 
 For 'result_face' column very high correlation coefficient (0,951) has next stage of KYC:
 
-  facial_image_integrity_result - Asserts whether the quality of the uploaded files and the content contained within them were sufficient to perform a face comparison
+    - facial_image_integrity_result - Asserts whether the quality of the uploaded files and the content contained within them were sufficient to perform a face comparison
 
 **These parameters have a great influence on the final KYC result.**
 
